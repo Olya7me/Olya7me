@@ -6,10 +6,12 @@ Frontend developer | JavaScript | React | HTML & CSS | TypeScript
 
 I've been learning to code after transitioning from a career as a ship navigator on marine vessels. My journey began with HTML and CSS, and I soon discovered my passion for creating dynamic and user-friendly interfaces using JavaScript and React. I thrive on solving complex problems and continuously developing my skills.
 
-* 🌍  I'm based in Russia, Perm  
-* ✉️  You can contact me at [gumnukolga@gmai.com](mailto:gumnukolga@gmai.com)  
-* 🧠  I'm learning Advanced React patterns and TypeScript.  
-* ⚡  I have a knack for centering divs, love working on challenging tasks, and enjoy experimenting with creative web designs.
+Я начала изучать программирование, сменив карьеру судоводителя на морских судах. Мой путь начался с HTML и CSS, и вскоре я увлеклась созданием динамичных и удобных интерфейсов с использованием JavaScript и React. Мне нравится решать сложные задачи и постоянно развивать свои навыки.
+
+* 🌍  I'm based in Russia, Perm/ Я живу в России, г. Пермь
+* ✉️  You can contact me at [gumnukolga@gmai.com](mailto:gumnukolga@gmai.com)/ Связаться со мной можно по адресу [gumnukolga@gmai.com](mailto:gumnukolga@gmai.com)
+* 🧠  I'm learning Advanced React patterns and TypeScript/ Сейчас изучаю продвинутые паттерны React и TypeScript.
+* ⚡  I have a knack for centering divs, love working on challenging tasks, and enjoy experimenting with creative web designs/ Умею идеально центрировать div'ы, люблю работать над сложными задачами и экспериментировать с креативным дизайном веб-приложений
 
 ### Skills
 
