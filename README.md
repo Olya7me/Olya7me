@@ -2,7 +2,7 @@
   Hi, I'm Olya
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave">
 </h1>
-<h4 align="center">Frontend Developer 👩🏻‍💻 currently living in 📍Perm, Russia</h4>
+<h4 align="center">Frontend Developer 👩🏻‍💻 currently living in 📍Perm, Russia/проживаю в России, г.Пермь</h4>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -18,9 +18,9 @@
 
 <br>
 
-### 🛠 Skills
+### 🛠 Skills/Cкиллы
 
-#### Structure:
+#### Structure/Структура:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html"/>
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-#### Styles:
+#### Styles/Стили:
 <p align="left" width="36">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=css" />
@@ -46,14 +46,14 @@
       </a>
 </p>
 
-#### HARD:
+#### HARD/Технические:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux" />
   </a>
 </p>
 
-#### Libs:
+#### Libs/Библиотеки:
 <p align="left"> 
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=npm" />
@@ -63,7 +63,7 @@
       <img src='https://avatars.githubusercontent.com/u/53986236?s=280&v=4' alt='react-hook-form' width="50" />
 </p>
 
-#### Some more:
+#### Some more/ Еще:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -95,11 +95,13 @@
   <br>
 </div>
 
-### 💡 A Little Fact About Me
+### 💡 A Little Fact About Me/ Небольбольшой факт обо мне:
 
 I transitioned from a career as a maritime navigator 🚢 to becoming a junior developer. I'm passionate about JavaScript, React, and building web applications. Always eager to learn new technologies and grow in the development field!
 
-### ✉️ Contacts:
+Я завершила карьеру судоводителя 🚢 чтобы стать начинающим разработчиком. Я увлечена JavaScript, React и созданием веб-приложений. Всегда стремлюсь учиться новым технологиям и развиваться в области разработки!
+
+### ✉️ Contacts/ Контакты:
 
 <p align="left"> 
 <a href="https://www.github.com/Olya7me" target="_blank" rel="noreferrer"> 
@@ -121,7 +123,7 @@ I transitioned from a career as a maritime navigator 🚢 to becoming a junior d
 </a>
 </p>
 
-<h3 align="center">Have a good day!🐥</h3>
+<h3 align="center">Have a good day!🐥/ Хорошего дня!🐥</h3>
 
 </br>
 
