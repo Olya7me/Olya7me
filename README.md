@@ -123,7 +123,7 @@ I transitioned from a career as a maritime navigator 🚢 to becoming a junior d
 </a>
 </p>
 
-<h3 align="center">Have a good day!🐥/ Хорошего дня!🐥</h3>
+<h3 align="center">Have a good day!🐥</h3>
 
 </br>
 
