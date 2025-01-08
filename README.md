@@ -122,9 +122,13 @@ I transitioned from a career as a maritime navigator 🚢 to becoming a junior d
 <a href="https://t.me/olya7me" target="_blank" rel="noreferrer">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="40" alt="Telegram" />
 </a>
+<a href="mailto:gumnukolga@gmail.com" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="40" alt="Gmail" />
+</a>
 </p>
 
-<h3 align="center">Have a good day!🐥</h3>
+
+<h3 align="center">Have a nice day!🐥</h3>
 
 </br>
 
