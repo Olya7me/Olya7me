@@ -96,7 +96,7 @@
 </div>
 
 
-### 💡 A Little Fact About Me/ Небольбольшой факт обо мне:
+### 💡 A Little Fact About Me/ Небольшой факт обо мне:
 
 I transitioned from a career as a maritime navigator 🚢 to becoming a junior developer. I'm passionate about JavaScript, React, and building web applications. Always eager to learn new technologies and grow in the development field!
 
