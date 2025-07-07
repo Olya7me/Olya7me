@@ -96,12 +96,6 @@
 </div>
 
 
-### 💡 A Little Fact About Me/ Небольшой факт обо мне:
-
-I transitioned from a career as a maritime navigator 🚢 to becoming a junior developer. I'm passionate about JavaScript, React, and building web applications. Always eager to learn new technologies and grow in the development field!
-
-Я завершила карьеру судоводителя 🚢 чтобы стать начинающим разработчиком. Я увлечена JavaScript, React и созданием веб-приложений. Всегда стремлюсь учиться новым технологиям и развиваться в области разработки!
-
 ### ✉️ Contacts/ Контакты:
 
 <p align="left"> 
