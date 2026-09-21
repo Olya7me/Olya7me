@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=They%20say%20true%20love%20is%20hard%20to%20find.%20Clearly%2C%20they’ve%20never%20tried%20centering%20a%20div.&author=CSS%20Survivor" alt="Readme Quotes"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=They%20say%20true%20love%20is%20hard%20to%20find.%20Clearly%2C%20they’ve%20never%20tried%20centering%20a%20div.&author=..." alt="Readme Quotes"/>
   </a>
 </p>
 
