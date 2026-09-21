@@ -2,7 +2,7 @@
   Hi, I'm Olya
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave">
 </h1>
-<h4 align="center">Frontend Developer 👩🏻‍💻 currently living in 📍Perm, Russia/ Живу в 📍России, г.Пермь</h4>
+<h4 align="center">React & React Native Developer 👩🏻‍💻</h4>
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
